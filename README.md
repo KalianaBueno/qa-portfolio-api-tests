@@ -17,11 +17,6 @@ Checklist com cenários funcionais e validações principais:
 
 👉 https://docs.google.com/spreadsheets/d/1MjyiPHmF8l5fNR9llmIFC1szdmf1Hs1Yubn3_fG_Dt8/edit
 
-### 🔹 Endpoints Check
-Planilha com mapeamento dos endpoints testados:
-
-👉 https://docs.google.com/spreadsheets/d/1lufq8fSJy1ItF3u04zv13SWAX2ut9fMpwIUfckWkJKE/edit
-
 ## 🚀 Testes de API – Postman
 
 Coleção criada no Postman contendo os endpoints e validações:
